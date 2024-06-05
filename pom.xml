@@ -48,6 +48,16 @@
       <version>5.7.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    	<groupId>Lalit</groupId>
+    	<artifactId>Appium</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+    	<groupId>LalitAutomation</groupId>
+    	<artifactId>ExtentReports</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <build>

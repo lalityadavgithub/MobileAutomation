@@ -5,17 +5,9 @@
     <classes>
       <class name="Mobile.Automations.CustomerApplication">
         <methods>
-          <include name="NLoginFailed"/>
-          <include name="LoginwithNewPassword"/>
-          <include name="LoginButtonEnable"/>
           <include name="ConfigureAppium"/>
-          <include name="Simulating"/>
-          <include name="DoForgetpassord"/>
           <include name="MobileAppLogin"/>
-          <include name="LoginButtonDisable"/>
           <include name="tearDown"/>
-          <include name="ForgetPassord"/>
-          <include name="verifyCredentialretains"/>
         </methods>
       </class> <!-- Mobile.Automations.CustomerApplication -->
     </classes>
